@@ -1,0 +1,26 @@
+[E][ (  50) 08:56:49:279 <RTL> ] [ PID: 7940 TID: 7264 ] App Host Version = 15.0.0.4763
+[E][ (  50) 08:56:49:279 <RTL> ] [ PID: 7940 TID: 7264 ] Add-in Version = 8.0.6362.191
+[E][ (  50) 08:56:49:279 <RTL> ] [ PID: 7940 TID: 7264 ] App Host = Outlook
+[E][ (  50) 08:56:57:965 <RTL> ] [ PID: 7940 TID: 7264 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 08:56:57:966 <RTL> ] [ PID: 7940 TID: 7264 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 08:57:04:827 <RTL> ] [ PID: 7940 TID: 7264 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 08:57:04:828 <RTL> ] [ PID: 7940 TID: 7264 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 08:57:04:828 <RTL> ] [ PID: 7940 TID: 7264 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 09:23:32:625 <RTL> ] [ PID: 7940 TID: 7264 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 09:23:32:627 <RTL> ] [ PID: 7940 TID: 7264 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 09:23:32:629 <RTL> ] [ PID: 7940 TID: 7264 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 11:51:01:433 <RTL> ] [ PID: 7940 TID: 7264 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 11:51:01:435 <RTL> ] [ PID: 7940 TID: 7264 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 11:51:01:437 <RTL> ] [ PID: 7940 TID: 7264 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:07:07:458 <RTL> ] [ PID: 8460 TID: 8508 ] CLiveMeetingAddin::OnConnection (startup)
+[E][ (  50) 17:07:07:465 <RTL> ] [ PID: 8460 TID: 8508 ] App Host Version = 15.0.0.4763
+[E][ (  50) 17:07:07:469 <RTL> ] [ PID: 8460 TID: 8508 ] Add-in Version = 8.0.6362.191
+[E][ (  50) 17:07:07:474 <RTL> ] [ PID: 8460 TID: 8508 ] App Host = Outlook
+[E][ (  50) 17:07:08:480 <RTL> ] [ PID: 8460 TID: 8508 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:07:08:482 <RTL> ] [ PID: 8460 TID: 8508 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:07:15:569 <RTL> ] [ PID: 8460 TID: 8508 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:07:15:572 <RTL> ] [ PID: 8460 TID: 8508 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:07:15:574 <RTL> ] [ PID: 8460 TID: 8508 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:07:40:455 <RTL> ] [ PID: 8460 TID: 8508 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:07:40:457 <RTL> ] [ PID: 8460 TID: 8508 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:07:40:459 <RTL> ] [ PID: 8460 TID: 8508 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)

@@ -1,0 +1,39 @@
+[2016-03-08 17:11:07,164] [VSTA_Main] [DEBUG] [[0] ThisAddIn.ThisAddIn_Startup] - Addin version[4.1.1102.0] being initialized
+[2016-03-08 17:11:07,187] [VSTA_Main] [DEBUG] [[0] OfficeClientInfo..ctor] - UserAgent: Box for Office/4.1.1102.0 (PowerPoint 15.0);Windows/6.1.7601.65536;AMD64
+[2016-03-08 17:11:07,191] [VSTA_Main] [DEBUG] [[0] DataStoreService.LoadLastUsedData] - LoadLastUsedData
+[2016-03-08 17:11:07,191] [VSTA_Main] [DEBUG] [[0] DataStoreService.LoadLastUsedData] - lastAccessedDirectory is null
+[2016-03-08 17:11:07,192] [VSTA_Main] [DEBUG] [[0] DataStoreService.LoadLastUsedData] - Exit
+[2016-03-08 17:11:07,196] [VSTA_Main] [INFO ] [[0] EventsManager.SubscribeUnsubscribeForEvents] - SubscribeUnsubscribeForEvents User is not logged in or current document is not a box file
+[2016-03-08 17:11:07,201] [VSTA_Main] [DEBUG] [[0] ThisAddIn.ThisAddIn_Startup] - Addin initialization complete
+[2016-03-08 17:11:10,740] [VSTA_Main] [DEBUG] [[0] ThisAddIn.Application_DocumentChanged] - Opening document C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:11:10,741] [VSTA_Main] [INFO ] [[0] EventsManager.SubscribeUnsubscribeForEvents] - SubscribeUnsubscribeForEvents User is not logged in or current document is not a box file
+[2016-03-08 17:11:10,742] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:11:10,743] [VSTA_Main] [INFO ] [[0] FileLockUnlockManager.<.ctor>b__1] - Document Changed. Current document: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:11:10,744] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:11:10,828] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:11:10,828] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:11:10,830] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:11:10,832] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:13,311] [VSTA_Main] [DEBUG] [[0] ThisAddIn.Application_DocumentChanged] - Opening document C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:13,312] [VSTA_Main] [INFO ] [[0] EventsManager.SubscribeUnsubscribeForEvents] - SubscribeUnsubscribeForEvents User is not logged in or current document is not a box file
+[2016-03-08 17:12:13,312] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:13,312] [VSTA_Main] [INFO ] [[0] FileLockUnlockManager.<.ctor>b__1] - Document Changed. Current document: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:13,312] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:13,429] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:13,430] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:13,431] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:13,433] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:55,778] [VSTA_Main] [DEBUG] [[0] ThisAddIn.Application_PresentationBeforeClose] - Document is being closed. Check if there are any unsaved changes
+[2016-03-08 17:12:55,780] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:55,780] [VSTA_Main] [DEBUG] [[0] ThisAddIn.Application_PresentationBeforeClose] - Document is either not a box file or is already saved
+[2016-03-08 17:12:55,782] [VSTA_Main] [DEBUG] [[0] ThisAddIn.Application_DocumentChanged] - Opening document C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:55,783] [VSTA_Main] [INFO ] [[0] EventsManager.SubscribeUnsubscribeForEvents] - SubscribeUnsubscribeForEvents User is not logged in or current document is not a box file
+[2016-03-08 17:12:55,783] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:55,784] [VSTA_Main] [INFO ] [[0] FileLockUnlockManager.<.ctor>b__1] - Document Changed. Current document: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:55,785] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:55,810] [VSTA_Main] [DEBUG] [[0] ThisAddIn.Application_DocumentChanged] - Opening document C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:55,811] [VSTA_Main] [INFO ] [[0] EventsManager.SubscribeUnsubscribeForEvents] - SubscribeUnsubscribeForEvents User is not logged in or current document is not a box file
+[2016-03-08 17:12:55,812] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:55,813] [VSTA_Main] [INFO ] [[0] FileLockUnlockManager.<.ctor>b__1] - Document Changed. Current document: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:55,813] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Downloads\Cygwin_Training_Seminar.ppt
+[2016-03-08 17:12:55,888] [VSTA_Main] [DEBUG] [[0] ThisAddIn.ThisAddIn_Shutdown] - Shut down

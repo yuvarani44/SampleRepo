@@ -1,0 +1,6 @@
+[2016-03-09 09:03:26,522] [VSTA_Main] [DEBUG] [[0] ThisAddIn.ThisAddIn_Startup] - Addin version[4.1.1102.0] being initialized
+[2016-03-09 09:03:26,545] [VSTA_Main] [DEBUG] [[0] OfficeClientInfo..ctor] - UserAgent: Box for Office/4.1.1102.0 (Outlook 15.0.0.4763);Windows/6.1.7601.65536;AMD64
+[2016-03-09 09:03:26,548] [VSTA_Main] [DEBUG] [[0] DataStoreService.LoadLastUsedData] - LoadLastUsedData
+[2016-03-09 09:03:26,549] [VSTA_Main] [DEBUG] [[0] DataStoreService.LoadLastUsedData] - lastAccessedDirectory is null
+[2016-03-09 09:03:26,549] [VSTA_Main] [DEBUG] [[0] DataStoreService.LoadLastUsedData] - Exit
+[2016-03-09 09:03:26,551] [VSTA_Main] [DEBUG] [[0] ThisAddIn.ThisAddIn_Startup] - Addin initialization complete

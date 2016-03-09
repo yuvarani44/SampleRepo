@@ -1,0 +1,9 @@
+p.TenantCulture
+af8e89a3-d9ac-422f-ad06-cc4eb4214314::en-GB
+portal.office.com/
+9729
+3509037440
+617110110
+1853724547
+30503836
+*

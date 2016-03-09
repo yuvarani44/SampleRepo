@@ -1,0 +1,47 @@
+[2016-03-02 13:33:25,299] [VSTA_Main] [DEBUG] [[0] ThisAddIn.ThisAddIn_Startup] - Addin version[4.1.1102.0] being initialized
+[2016-03-02 13:33:25,500] [VSTA_Main] [DEBUG] [[0] OfficeClientInfo..ctor] - UserAgent: Box for Office/4.1.1102.0 (Word 15.0);Windows/6.1.7601.65536;AMD64
+[2016-03-02 13:33:25,535] [VSTA_Main] [DEBUG] [[0] DataStoreService.LoadLastUsedData] - LoadLastUsedData
+[2016-03-02 13:33:25,538] [VSTA_Main] [DEBUG] [[0] DataStoreService.LoadLastUsedData] - lastAccessedDirectory is null
+[2016-03-02 13:33:25,539] [VSTA_Main] [DEBUG] [[0] DataStoreService.LoadLastUsedData] - Exit
+[2016-03-02 13:33:25,563] [VSTA_Main] [INFO ] [[0] EventsManager.SubscribeUnsubscribeForEvents] - SubscribeUnsubscribeForEvents User is not logged in or current document is not a box file
+[2016-03-02 13:33:25,613] [VSTA_Main] [DEBUG] [[0] ThisAddIn.ThisAddIn_Startup] - Addin initialization complete
+[2016-03-02 13:33:28,972] [VSTA_Main] [INFO ] [[0] EventsManager.SubscribeUnsubscribeForEvents] - SubscribeUnsubscribeForEvents User is not logged in or current document is not a box file
+[2016-03-02 13:33:28,985] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: Document1
+[2016-03-02 13:33:28,985] [VSTA_Main] [INFO ] [[0] FileLockUnlockManager.<.ctor>b__1] - Document Changed. Current document: Document1
+[2016-03-02 13:33:28,985] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: Document1
+[2016-03-02 13:33:28,996] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: Document1
+[2016-03-02 13:33:28,997] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: Document1
+[2016-03-02 13:33:29,000] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: Document1
+[2016-03-02 13:33:29,002] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: Document1
+[2016-03-02 13:41:46,071] [VSTA_Main] [DEBUG] [[0] ThisAddIn.Application_DocumentBeforeClose] - Document is being closed. Check if there are any unsaved changes
+[2016-03-02 13:41:46,073] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: Document1
+[2016-03-02 13:41:46,074] [VSTA_Main] [DEBUG] [[0] ThisAddIn.Application_DocumentBeforeClose] - Document is either not a box file or is already saved
+[2016-03-02 13:41:46,199] [VSTA_Main] [INFO ] [[0] EventsManager.SubscribeUnsubscribeForEvents] - SubscribeUnsubscribeForEvents User is not logged in or current document is not a box file
+[2016-03-02 13:41:46,199] [VSTA_Main] [INFO ] [[0] FileLockUnlockManager.<.ctor>b__1] - Document Changed. Current document: 
+[2016-03-02 13:41:46,201] [VSTA_Main] [DEBUG] [[0] ThisAddIn.ThisAddIn_Shutdown] - Shut down
+[2016-03-02 13:42:08,455] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:08,597] [VSTA_Main] [DEBUG] [[0] ThisAddIn.ThisAddIn_Startup] - Addin version[4.1.1102.0] being initialized
+[2016-03-02 13:42:08,605] [VSTA_Main] [DEBUG] [[0] OfficeClientInfo..ctor] - UserAgent: Box for Office/4.1.1102.0 (Word 15.0);Windows/6.1.7601.65536;AMD64
+[2016-03-02 13:42:08,608] [VSTA_Main] [DEBUG] [[0] DataStoreService.LoadLastUsedData] - LoadLastUsedData
+[2016-03-02 13:42:08,609] [VSTA_Main] [DEBUG] [[0] DataStoreService.LoadLastUsedData] - lastAccessedDirectory is null
+[2016-03-02 13:42:08,609] [VSTA_Main] [DEBUG] [[0] DataStoreService.LoadLastUsedData] - Exit
+[2016-03-02 13:42:08,613] [VSTA_Main] [INFO ] [[0] EventsManager.SubscribeUnsubscribeForEvents] - SubscribeUnsubscribeForEvents User is not logged in or current document is not a box file
+[2016-03-02 13:42:08,616] [VSTA_Main] [DEBUG] [[0] ThisAddIn.ThisAddIn_Startup] - Addin initialization complete
+[2016-03-02 13:42:08,624] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:08,626] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:08,629] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:08,631] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:09,034] [VSTA_Main] [INFO ] [[0] EventsManager.SubscribeUnsubscribeForEvents] - SubscribeUnsubscribeForEvents User is not logged in or current document is not a box file
+[2016-03-02 13:42:09,035] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:09,035] [VSTA_Main] [INFO ] [[0] FileLockUnlockManager.<.ctor>b__1] - Document Changed. Current document: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:09,036] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:09,064] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:09,065] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:09,067] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:09,068] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:12,661] [VSTA_Main] [DEBUG] [[0] ThisAddIn.Application_DocumentBeforeClose] - Document is being closed. Check if there are any unsaved changes
+[2016-03-02 13:42:12,663] [VSTA_Main] [DEBUG] [[0] CommonFunctions.FullDocumentName] - FullDocumentName returning: C:\Users\kxcb847\Documents\JAYAPRIYA.odt
+[2016-03-02 13:42:12,663] [VSTA_Main] [DEBUG] [[0] ThisAddIn.Application_DocumentBeforeClose] - Document is either not a box file or is already saved
+[2016-03-02 13:42:12,862] [VSTA_Main] [INFO ] [[0] EventsManager.SubscribeUnsubscribeForEvents] - SubscribeUnsubscribeForEvents User is not logged in or current document is not a box file
+[2016-03-02 13:42:12,862] [VSTA_Main] [INFO ] [[0] FileLockUnlockManager.<.ctor>b__1] - Document Changed. Current document: 
+[2016-03-02 13:42:12,864] [VSTA_Main] [DEBUG] [[0] ThisAddIn.ThisAddIn_Shutdown] - Shut down

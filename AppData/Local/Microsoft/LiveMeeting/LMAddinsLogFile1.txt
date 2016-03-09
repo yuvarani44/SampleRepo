@@ -1,0 +1,17 @@
+[E][ (  50) 09:18:13:645 <RTL> ] [ PID: 6828 TID: 6832 ] App Host Version = 15.0.0.4763
+[E][ (  50) 09:18:13:646 <RTL> ] [ PID: 6828 TID: 6832 ] Add-in Version = 8.0.6362.191
+[E][ (  50) 09:18:13:647 <RTL> ] [ PID: 6828 TID: 6832 ] App Host = Outlook
+[E][ (  50) 09:18:18:315 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 09:18:18:317 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 09:18:36:409 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 09:18:36:410 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 09:18:36:412 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 09:35:50:492 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 09:35:50:493 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 09:35:50:493 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:10:51:875 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:10:51:877 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:10:51:879 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:10:58:211 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:10:58:216 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether conference call button should be disabled, defaulting to not disabled (hr=0x80070002)
+[E][ (  50) 17:10:58:218 <RTL> ] [ PID: 6828 TID: 6832 ] Failed to determine whether OCS Meeting Now button and OCS Schedule a Live Meeting should be disabled, defaulting to not disabled (hr=0x80070002)
